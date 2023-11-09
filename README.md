@@ -1,6 +1,7 @@
 # Hi there :wave:
 My name is Nguyen Tran Tan An, and I'm a software developer
-- :school: I'm currently senior student at University of Transport and Communitions, Hanoi
+- :briefcase: Working at [Pentalog Vietnam](https://www.pentalog.com)
+- :computer: .NET, Angular
 - :books: I love coding and do it every day
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=spicy-tomato&count_private=true&line_height=28&show_icons=true&card_width=10&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)

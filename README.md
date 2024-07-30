@@ -1,6 +1,6 @@
 # Hi there :wave:
 My name is Nguyen Tran Tan An, and I'm a software developer
-- :briefcase: Working at ][Sotatek Vietnam](https://www.sotatek.com/)]
+- :briefcase: Working at [Sotatek Vietnam](https://www.sotatek.com/)
 - :computer: .NET, Angular
 - :books: I love coding and do it every day
 
